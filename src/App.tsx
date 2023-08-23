@@ -1,13 +1,11 @@
-import { useState } from 'react'
-
 import './App.css'
+import HeaderApp from './components/header/HeaderApp'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      
+      <HeaderApp />
     </>
   )
 }
