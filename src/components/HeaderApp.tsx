@@ -5,14 +5,12 @@ const HeaderContainer = styled.header`
   display: flex;
   flex-direction: column;
   align-items: center;
-
   background-color: #333; /* Cor de fundo do tema escuro */
   color: #fff; /* Cor do texto no tema escuro */
   padding: 20px;
 `;
 
 const HeaderTitle = styled.h1`
-
   margin: 0;
   font-size: 24px;
 `;
